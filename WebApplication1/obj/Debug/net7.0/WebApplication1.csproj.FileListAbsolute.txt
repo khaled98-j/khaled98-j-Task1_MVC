@@ -73,3 +73,4 @@ D:\Full stack\C#\task\task1_mvc\WebApplication1\WebApplication1\obj\Debug\net7.0
 D:\Full stack\C#\task\task1_mvc\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
 D:\Full stack\C#\task\task1_mvc\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
 D:\Full stack\C#\task\task1_mvc\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+D:\Full stack\C#\task\task1_mvc\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.sourcelink.json

@@ -1,0 +1,20 @@
+﻿@model Employee
+
+<form action="/Employee/Store/@Model.Id">
+    <div class="mb-3">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" name="Name" class="form-control" id="name" value=@Model.Name>
+
+    </div>
+    <div class="mb-3">
+        <label for="title" class="form-label">Title</label>
+        <input type="text" name="Title" class="form-control" id="title" value=@Model.Title>
+
+    </div>
+    <div class="mb-3">
+        <label for="age" class="form-label">Age</label>
+        <input type="number" name="Age" class="form-control" id="age" value=@Model.Age>
+    </div>
+
+    <button type="submit" class="btn btn-secondary">Update</button>
+</form>
